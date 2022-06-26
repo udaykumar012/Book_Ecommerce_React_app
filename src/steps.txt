@@ -1,0 +1,7 @@
+//importin browserRouter and bootstrap
+
+// create components folder
+
+//setup header components  //getbootstrap.com
+
+//replace "a"  to "NavLink" and "href" -> "to"

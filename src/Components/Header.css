@@ -1,0 +1,24 @@
+/*NAV BAR*/
+.navbar-nav li a{
+    font-size: 17px;
+}
+#title{
+    color: green;
+    letter-spacing: 3px;
+    text-decoration: none;
+    
+}
+.nav-item {
+    margin-right: 10px;
+}
+#navbarSupportedContent{
+    margin-left: 50%;
+}
+@media only screen and (max-width: 992px){
+    a.btn.btn-outline-success{
+        border-color: #f8f9fa;
+        width: 150px;
+        margin-left: 0%;
+    }
+
+}

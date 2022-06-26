@@ -1,0 +1,12 @@
+input{
+    width: 90%;
+}
+button.btn.btn-primary{
+    width: 200px;
+}
+#SavedAddress{
+    resize: none;
+}
+a.btn.btn-primary{
+    margin:2px;
+}
