@@ -45,6 +45,7 @@ const DATA=[
         pagecount:743,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
         img:"https://covers.openlibrary.org/b/id/10708239-L.jpg"
+    },
     {
         title:"The Kitchen God's Wife,Amy Tan,1991,Putnam Pub Group",
         author:"Mark P.O",
