@@ -6,8 +6,7 @@ const DATA=[
         price:250,
         pagecount:400,
         desc:"Facebook is defined as an online social networking website where people can create profiles",
-        img:"http://images.amazon.com/images/P/0195153448.01.THUMBZZZ.jpg"
-
+        img:"https://images-na.ssl-images-amazon.com/images/I/51Zh65nDEXL._SX375_BO1,204,203,200_.jpg"
     },
     {
         title:"Clara Callan,Richard Bruce Wright",
@@ -16,7 +15,7 @@ const DATA=[
         price:850,
         pagecount:427,
         desc:"Facebook is defined as an online social networking website where people can create profiles",
-        img:"http://images.amazon.com/images/P/0002005018.01.THUMBZZZ.jpg"
+        img:"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Clara_Callan_book_cover.png/220px-Clara_Callan_book_cover.png"
     },
     {
         title:"Decision in Normandy,Carlo D'Este,1991",
@@ -35,7 +34,7 @@ const DATA=[
         price:450,
         pagecount:533,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/0374157065.01.THUMBZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440930349i/763331.jpg"
 
     },
     {
@@ -45,8 +44,7 @@ const DATA=[
         price:250,
         pagecount:743,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/0393045218.01.THUMBZZZ.jpg"
-    },
+        img:"https://covers.openlibrary.org/b/id/10708239-L.jpg"
     {
         title:"The Kitchen God's Wife,Amy Tan,1991,Putnam Pub Group",
         author:"Mark P.O",
@@ -54,7 +52,7 @@ const DATA=[
         price:350,
         pagecount:902,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/0425176428.01.LZZZZZZZ.jpg"
+        img:"https://pictures.abebooks.com/inventory/13024958248.jpg"
     },
     {
         title:"PLEADING GUILTY,Scott Turow,1993",
@@ -83,7 +81,7 @@ const DATA=[
         price:126,
         pagecount:893,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/074322678X.01.LZZZZZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/I/411FFYRKTFL._SX310_BO1,204,203,200_.jpg"
     },
     {
         title:"Nights Below Station Street",
@@ -92,7 +90,7 @@ const DATA=[
         price:823,
         pagecount:123,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/0771074670.01.LZZZZZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/I/41TPTQ76D8L._SX287_BO1,204,203,200_.jpg"
     },
     {
         title:"Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust,Adam Lebor,2000",
@@ -101,7 +99,7 @@ const DATA=[
         price:829,
         pagecount:189,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/080652121X.01.LZZZZZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/I/51BYSJVF3ZL._SX310_BO1,204,203,200_.jpg"
     },
     {
         title:"Das Beste, was einem Croissant passieren kann. Roman.",
@@ -110,7 +108,7 @@ const DATA=[
         price:940,
         pagecount:970,
         desc:"Facebook is defined as an online social networking website where people can create profiles",
-        img:"http://images.amazon.com/images/P/3627001028.01.LZZZZZZZ.jpg"
+        img:"https://i.weltbild.de/p/das-beste-was-einem-croissant-passieren-kann-095965998.jpg?v=23&wp=p5"
 
     },
     {
@@ -120,7 +118,7 @@ const DATA=[
         price:850,
         pagecount:197,
         desc:"Facebook is defined as an online social networking website where people can create profiles",
-        img:"http://images.amazon.com/images/P/0553213164.01.LZZZZZZZ.jpg"
+        img:"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348613064l/65840.jpg"
     },
     {
         title:"See How They Run,James Patterson",
@@ -158,7 +156,7 @@ const DATA=[
         price:450,
         pagecount:500,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/0374157065.01.THUMBZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440930349i/763331.jpg"
 
     },
     {
@@ -177,7 +175,8 @@ const DATA=[
         price:750,
         pagecount:234,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/074322678X.01.LZZZZZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/I/411FFYRKTFL._SX310_BO1,204,203,200_.jpg"
+   
     },
     {
         title:"Nights Below Station Street",
@@ -186,7 +185,7 @@ const DATA=[
         price:250,
         pagecount:156,
         desc:"Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people Facebook is defined as an online social networking website where people  can create profiles",
-        img:"http://images.amazon.com/images/P/0771074670.01.LZZZZZZZ.jpg"
+        img:"https://images-na.ssl-images-amazon.com/images/I/41TPTQ76D8L._SX287_BO1,204,203,200_.jpg"
     },
 ]
 
