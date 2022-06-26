@@ -20,7 +20,7 @@ function App() {
       <Route path='/checkout' element={<Checkout/>}/>
       <Route path='/checkout/:title'  element={<Checkout/>} />
       <Route path='/cart'  element={<Cart/>} />
-      <Route path="/" element={<Navigate replace to="/home" />} />
+      <Route path="/" element={<Home/>} />
       <Route path='/orderaccepted' element={<OrderAccepted/>}/>
       <Route path='/myOrders' element={<MyOrders/>}/>
     </Routes>
