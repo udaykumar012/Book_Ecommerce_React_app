@@ -5,7 +5,7 @@ const DATA=[
         isbn:"0195153448",
         price:250,
         pagecount:400,
-        desc:"Facebook is defined as an online social networking website where people can create profiles",
+        desc:"Facebook is defined as an online social networking websites where people can create profiles",
         img:"https://images-na.ssl-images-amazon.com/images/I/51Zh65nDEXL._SX375_BO1,204,203,200_.jpg"
     },
     {
